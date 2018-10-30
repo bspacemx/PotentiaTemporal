@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Potentia",
-    "currentPage": "nuestrosclientes.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -37,7 +37,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 115,
+    "uniqCompNum": 118,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -432,7 +432,7 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "2018 All rights reserved. Development by <a href=\"https://mobirise.com\">BSpace Digital Agency</a>",
+          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a>",
           "alias": "spacem/components",
           "_tags": [
             "Tema"
@@ -855,7 +855,7 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "2018 All rights reserved. Development by <a href=\"https://mobirise.com\">BSpace Digital Agency</a>",
+          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a>",
           "alias": "spacem/components",
           "_tags": [
             "Tema"
@@ -1181,7 +1181,7 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "2018 All rights reserved. Development by <a href=\"https://mobirise.com\">BSpace Digital Agency</a>",
+          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a>",
           "alias": "spacem/components",
           "_tags": [
             "Tema"
@@ -1364,7 +1364,7 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "2018 All rights reserved. Development by <a href=\"https://mobirise.com\">BSpace Digital Agency</a>",
+          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a>",
           "alias": "spacem/components",
           "_tags": [
             "Tema"
@@ -1442,10 +1442,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/theboxweb-736x537.png",
-                    "link": "https://mobirise.com",
+                    "link": "http://theboxcoworking.com/",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -1454,10 +1455,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/imatchweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "http://www.imatch.mx/#home",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -1466,10 +1468,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/exomaqmxweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "https://ecomaq.mx/",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -1478,7 +1481,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/grupomedicoozoneweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -1490,10 +1493,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/comercamweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "http://comercram.mx/",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -1502,7 +1506,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/anatomiavonputlitzweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "https://www.facebook.com/Dr.vonPutlitz/",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -1514,10 +1518,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/accademiamichelangelo-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "https://www.facebook.com/AccademiaMichelangelo.mx/",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -1526,10 +1531,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/rosabarocioweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "http://rosabarocio.com/",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -1538,7 +1544,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/carclicweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -1859,7 +1865,7 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "2018 All rights reserved. Development by <a href=\"https://mobirise.com\">BSpace Digital Agency</a>",
+          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a>",
           "alias": "spacem/components",
           "_tags": [
             "Tema"
@@ -2660,10 +2666,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/theboxweb-736x537.png",
-                    "link": "https://mobirise.com",
+                    "link": "http://theboxcoworking.com/",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -2672,10 +2679,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/imatchweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "http://www.imatch.mx/#home",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -2684,10 +2692,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/exomaqmxweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "https://ecomaq.mx/",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -2696,7 +2705,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/grupomedicoozoneweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -2708,10 +2717,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/comercamweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "http://comercram.mx/",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -2720,7 +2730,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/anatomiavonputlitzweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "https://www.facebook.com/Dr.vonPutlitz/",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -2732,10 +2742,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/accademiamichelangelo-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "https://www.facebook.com/AccademiaMichelangelo.mx/",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -2744,10 +2755,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/rosabarocioweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "http://rosabarocio.com/",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -2756,7 +2768,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/carclicweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -2774,7 +2786,7 @@
             "Tema"
           ],
           "_name": "slider6",
-          "_anchor": "slider6-1q"
+          "_anchor": "slider6-38"
         },
         {
           "_params": {
@@ -2846,7 +2858,7 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "2018 All rights reserved. Development by <a href=\"https://mobirise.com\">BSpace Digital Agency</a>",
+          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a>",
           "alias": "spacem/components",
           "_tags": [
             "Tema"
@@ -3490,10 +3502,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/theboxweb-736x537.png",
-                    "link": "https://mobirise.com",
+                    "link": "http://theboxcoworking.com/",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -3502,10 +3515,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/imatchweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "http://www.imatch.mx/#home",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -3514,10 +3528,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/exomaqmxweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "https://ecomaq.mx/",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -3526,7 +3541,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/grupomedicoozoneweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -3538,10 +3553,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/comercamweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "http://comercram.mx/",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -3550,7 +3566,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/anatomiavonputlitzweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "https://www.facebook.com/Dr.vonPutlitz/",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -3562,10 +3578,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/accademiamichelangelo-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "https://www.facebook.com/AccademiaMichelangelo.mx/",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -3574,10 +3591,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/rosabarocioweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "http://rosabarocio.com/",
                     "active": true,
                     "alt": "",
-                    "title": ""
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -3586,7 +3604,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/carclicweb-1000x1000.png",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -3604,7 +3622,7 @@
             "Tema"
           ],
           "_name": "slider6",
-          "_anchor": "slider6-34"
+          "_anchor": "slider6-39"
         },
         {
           "_params": {
@@ -3676,7 +3694,7 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "2018 All rights reserved. Development by <a href=\"https://mobirise.com\">BSpace Digital Agency</a>",
+          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a>",
           "alias": "spacem/components",
           "_tags": [
             "Tema"
