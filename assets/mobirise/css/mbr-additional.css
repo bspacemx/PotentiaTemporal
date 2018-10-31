@@ -1341,11 +1341,15 @@ a:hover,
 #header3-3f P {
   text-align: left;
 }
-#header3-3h H1 {
+#header3-3o H1 {
+  color: #ffffff;
   font-size: 46px;
   text-align: left;
 }
-#header3-3h P {
+#header3-3o EM {
+  font-size: 46px;
+}
+#header3-3o P {
   text-align: left;
 }
 #header3-3i H1 {

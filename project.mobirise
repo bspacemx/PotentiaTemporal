@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Potentia",
-    "currentPage": "index.html",
+    "currentPage": "areasdepractica.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -37,7 +37,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 132,
+    "uniqCompNum": 133,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -3951,9 +3951,9 @@
             "showSubtitle": true,
             "showButtons": false,
             "showMedia": true,
-            "imageSize": "50",
+            "imageSize": 50,
             "inverse": true,
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
             "bgColorRadio": true,
@@ -3969,7 +3969,7 @@
           "media": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ap-proteccion-777x777.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ap-propiedadintelectual-777x777.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -3983,7 +3983,7 @@
               "loop": false
             }
           },
-          "title": "<i style=\"font-weight: normal;\">3. Propiedad&nbsp;</i>Intelectual",
+          "title": "<i style=\"font-weight: normal;\">3. Propiedad </i>Intelectual",
           "text": "Protegemos los activos intangibles más importantes de la empresa a través de la obtención de patentes, modelos de utilidad, diseños industriales, registros de marcas y protección de toda clase de obras ante el Instituto Mexicano de la Propiedad Industrial o ante el Instituto Nacional del Derecho de Autor.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
@@ -3991,16 +3991,20 @@
             "Tema"
           ],
           "_name": "header3",
+          "_anchor": "header3-3o",
           "_styles": {
             "H1": {
+              "color": "#ffffff",
               "font-size": "46px",
               "text-align": "left"
+            },
+            "EM": {
+              "font-size": "46px"
             },
             "P": {
               "text-align": "left"
             }
-          },
-          "_anchor": "header3-3h"
+          }
         },
         {
           "_params": {
@@ -4028,7 +4032,7 @@
           "media": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ap-proteccion-777x777.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ap-auditorialegal-777x777.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4151,7 +4155,7 @@
           "media": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ap-proteccion-777x777.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ap-auditorialegal-777x777.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4210,7 +4214,7 @@
           "media": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ap-proteccion-777x777.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ap-auditorialegal-777x777.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4269,7 +4273,7 @@
           "media": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ap-proteccion-777x777.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ap-auditorialegal-777x777.jpg",
               "link": "",
               "alt": "",
               "title": "",
