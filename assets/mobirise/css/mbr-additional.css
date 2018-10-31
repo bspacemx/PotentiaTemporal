@@ -1241,3 +1241,150 @@ a:hover,
 #text3-2r em {
   color: #cbb379;
 }
+
+#slider7-3a H1 {
+  font-size: 100px;
+  text-align: center;
+}
+#header3-3g H1 {
+  font-size: 46px;
+  text-align: left;
+  color: #222222;
+}
+#header3-3g P {
+  text-align: left;
+  color: #222222;
+}
+#header3-3g I {
+  color: #222222;
+}
+#menu2-3b .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu2-3b .navbar-caption {
+  color: #ffffff;
+}
+#menu2-3b .navbar-toggler {
+  color: #ffffff;
+}
+#menu2-3b .close-icon::before,
+#menu2-3b .close-icon::after {
+  background-color: #ffffff;
+}
+#menu2-3b .link,
+#menu2-3b .dropdown-item {
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+}
+#menu2-3b .link {
+  font-size: 0.75rem;
+}
+#menu2-3b .dropdown-item,
+#menu2-3b .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu2-3b .link:hover,
+#menu2-3b .dropdown-item:hover,
+#menu2-3b .link:focus,
+#menu2-3b .dropdown-item:focus {
+  color: #fff;
+}
+#menu2-3b .link[aria-expanded="true"],
+#menu2-3b .dropdown-menu {
+  background: #080808;
+}
+#menu2-3b .nav-dropdown-sm .link:focus,
+#menu2-3b .nav-dropdown-sm .link:hover,
+#menu2-3b .nav-dropdown-sm .dropdown-item:focus,
+#menu2-3b .nav-dropdown-sm .dropdown-item:hover {
+  background: #1a1a1a!important;
+}
+#menu2-3b .navbar,
+#menu2-3b .nav-dropdown-sm,
+#menu2-3b .nav-dropdown-sm .link[aria-expanded="true"],
+#menu2-3b .nav-dropdown-sm .dropdown-menu {
+  background: #222;
+}
+#menu2-3b .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu2-3b .navbar-toggler i,
+#menu2-3b .navbar-toggler em,
+#menu2-3b .navbar-toggler i:before,
+#menu2-3b .navbar-toggler em:before,
+#menu2-3b .navbar-toggler i:after,
+#menu2-3b .navbar-toggler em:after {
+  background: #ffffff;
+}
+#menu2-3b .navbar-toggler[aria-expanded="true"] i,
+#menu2-3b .navbar-toggler[aria-expanded="true"] em {
+  background: transparent;
+}
+#menu2-3b .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu2-3b .bg-color.transparent.opened .link:hover,
+#menu2-3b .bg-color.transparent.opened .link:focus {
+  color: #fff;
+}
+#menu2-3b .link[aria-expanded="true"] {
+  color: #fff!important;
+}
+#menu2-3b .dropdown-item[aria-expanded="true"] {
+  color: #222!important;
+}
+#header3-3f H1 {
+  font-size: 46px;
+  text-align: left;
+}
+#header3-3f P {
+  text-align: left;
+}
+#header3-3h H1 {
+  font-size: 46px;
+  text-align: left;
+}
+#header3-3h P {
+  text-align: left;
+}
+#header3-3i H1 {
+  font-size: 46px;
+  text-align: left;
+}
+#header3-3i P {
+  text-align: left;
+}
+#header3-3k H1 {
+  font-size: 46px;
+  text-align: left;
+  color: #222222;
+}
+#header3-3k P {
+  text-align: left;
+  color: #222222;
+}
+#header3-3k I {
+  color: #222222;
+}
+#header3-3l H1 {
+  font-size: 46px;
+  text-align: left;
+}
+#header3-3l P {
+  text-align: left;
+}
+#header3-3m H1 {
+  font-size: 46px;
+  text-align: left;
+}
+#header3-3m P {
+  text-align: left;
+}
+#header3-3n H1 {
+  font-size: 46px;
+  text-align: left;
+}
+#header3-3n P {
+  text-align: left;
+}
