@@ -1014,7 +1014,8 @@
             "Tema"
           ],
           "_name": "content6",
-          "_anchor": "content6-g"
+          "_anchor": "content6-g",
+          "_customCSS": "@media only screen and (max-width: 600px) {\n    .mbr-cards-col {\n        height: 550px;\n    }\n}"
         },
         {
           "_params": {
@@ -1063,10 +1064,10 @@
           ],
           "_name": "content6",
           "_anchor": "content6-p",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-section mbr-section--no-padding content6\" data-rv-view=\"988\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px;\">\n        \n        <div class=\"container-fluid\">\n            <div class=\"row\">\n         \n                        <div class=\"mbr-cards-col col-lg-4 col-xs-12 bgw 3\" style=\"display: block;\">\n                            <div class=\"page_head text-left title-block\">\n                                \n                                <h1 class=\"styled mbr-editable-content\" code-editable-id=\"14\">Derecho laboral</h1>\n                                <div class=\"separator\"></div>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"15\">Diseñamos estrategias de protección laboral para evitar controversias con los trabajadores de las\nempresas, prestando servicios en la redacción de contratos individuales de trabajo, reglamentos\ninteriores de trabajo, actas administrativas, entre otros. Así mismo, brindamos representación a la\n<br>empresa para conciliar y defender sus intereses en toda clase de juicios o procedimientos de\nquejas ante las autoridades laborales.</p>\n                                <span class=\"block-number\">7</span>\n                            </div>\n                        </div>\n\n                        <div class=\"mbr-cards-col col-lg-4 col-xs-12 bgc 3\" style=\"display: block;\">\n                            <div class=\"page_head text-left title-block\">\n                                \n                                <h1 class=\"styled mbr-editable-content\" code-editable-id=\"16\">Protección de datos personales</h1>\n                                <div class=\"separator\"></div>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"17\">Diseñamos y redactamos Avisos de Privacidad para las empresas, con el fin de evitar multas y\ncontroversias por el mal uso de los datos personales de los clientes, colaboradores, usuarios y\ndemás personas que les brindan información a las empresas. Así mismo, atendemos toda clase\nde investigaciones y procedimientos derivados de los derechos de acceso, rectificación,\ncancelación y oposición de datos personales en posesión de los particulares.</p>\n                                <span class=\"block-number\">8</span>\n                            </div>\n                        </div>\n\n                      \n            </div>\n        </div> \n</section>",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-section mbr-section--no-padding content6\" data-rv-view=\"988\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px;\">\n        \n        <div class=\"container-fluid\">\n            <div class=\"row\">\n         \n                        <div class=\"mbr-cards-col col-lg-4 col-xs-12 bgw 3\" style=\"display: block;\">\n                            <div class=\"page_head text-left title-block\">\n                                \n                                <h1 class=\"styled mbr-editable-content\" code-editable-id=\"73\">Derecho laboral</h1>\n                                <div class=\"separator\"></div>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"74\">Diseñamos estrategias de protección laboral para evitar controversias con los trabajadores de las\nempresas, prestando servicios en la redacción de contratos individuales de trabajo, reglamentos\ninteriores de trabajo, actas administrativas, entre otros. Así mismo, brindamos representación a la\n<br>empresa para conciliar y defender sus intereses en toda clase de juicios o procedimientos de\nquejas ante las autoridades laborales.</p>\n                                <span class=\"block-number\">7</span>\n                            </div>\n                        </div>\n\n                        <div class=\"mbr-cards-col col-lg-4 col-xs-12 bgc 3\" style=\"display: block;\">\n                            <div class=\"page_head text-left title-block\">\n                                \n                                <h1 class=\"styled mbr-editable-content\" code-editable-id=\"75\">Protección de datos personales</h1>\n                                <div class=\"separator\"></div>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"76\">Diseñamos y redactamos Avisos de Privacidad para las empresas, con el fin de evitar multas y\ncontroversias por el mal uso de los datos personales de los clientes, colaboradores, usuarios y\ndemás personas que les brindan información a las empresas. Así mismo, atendemos toda clase\nde investigaciones y procedimientos derivados de los derechos de acceso, rectificación,\ncancelación y oposición de datos personales en posesión de los particulares.</p>\n                                <span class=\"block-number\">8</span>\n                            </div>\n                        </div>\n\n                      \n            </div>\n        </div> \n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": ".mbr-cards-col {\n    height: 500px;\n}\n\n@media only screen and (max-width: 600px) {\n    .mbr-cards-col {\n        height: 600px;\n    }\n}",
+          "_customCSS": ".mbr-cards-col {\n    height: 500px;\n}\n\n@media only screen and (max-width: 600px) {\n    .mbr-cards-col {\n        height: 580px;\n    }\n}",
           "_customTemplate": true
         },
         {
@@ -1751,7 +1752,13 @@
             "Tema"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-v"
+          "_anchor": "contacts1-v",
+          "_customCSS": "",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_params": {
@@ -2203,7 +2210,8 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "14px"
             },
             "H4": {
               "color": "#ffffff"
@@ -3040,7 +3048,8 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "14px"
             },
             "H4": {
               "color": "#ffffff"

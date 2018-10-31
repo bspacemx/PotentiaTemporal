@@ -802,12 +802,17 @@ a:hover,
 #menu2-d .dropdown-item[aria-expanded="true"] {
   color: #222!important;
 }
+@media only screen and (max-width: 600px) {
+  #content6-g .mbr-cards-col {
+    height: 550px;
+  }
+}
 #content6-p .mbr-cards-col {
   height: 500px;
 }
 @media only screen and (max-width: 600px) {
   #content6-p .mbr-cards-col {
-    height: 600px;
+    height: 580px;
   }
 }
 
@@ -971,6 +976,9 @@ a:hover,
   font-size: 100px;
   text-align: center;
 }
+#contacts1-v P {
+  font-size: 14px;
+}
 
 #menu2-2s .hide-buttons .nav-btn {
   display: none !important;
@@ -1070,6 +1078,7 @@ a:hover,
 }
 #contacts1-2v P {
   color: #ffffff;
+  font-size: 14px;
 }
 #contacts1-2v H4 {
   color: #ffffff;
@@ -1197,6 +1206,7 @@ a:hover,
 }
 #contacts1-17 P {
   color: #ffffff;
+  font-size: 14px;
 }
 #contacts1-17 H4 {
   color: #ffffff;
