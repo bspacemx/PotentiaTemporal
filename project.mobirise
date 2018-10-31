@@ -37,7 +37,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 133,
+    "uniqCompNum": 136,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -4137,9 +4137,9 @@
             "showSubtitle": true,
             "showButtons": false,
             "showMedia": true,
-            "imageSize": "50",
+            "imageSize": 50,
             "inverse": false,
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
             "bgColorRadio": true,
@@ -4155,7 +4155,7 @@
           "media": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ap-auditorialegal-777x777.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ap-litigo-777x777.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4169,7 +4169,7 @@
               "loop": false
             }
           },
-          "title": "<i style=\"font-weight: normal;\">6. Litigo&nbsp;</i>Civil y Mercantil",
+          "title": "<span style=\"font-weight: normal;\"><i>6. Litigo Civil y Mercantil</i></span>",
           "text": "Representamos los intereses de nuestros clientes para defender o reclamar derechos en toda clase de controversias, tales como cobranza judicial, cumplimientos de contrato, penas convencionales, entre otros.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
@@ -4177,7 +4177,11 @@
             "Tema"
           ],
           "_name": "header3",
+          "_anchor": "header3-3p",
           "_styles": {
+            "EM": {
+              "font-size": "46px"
+            },
             "H1": {
               "font-size": "46px",
               "text-align": "left"
@@ -4185,8 +4189,7 @@
             "P": {
               "text-align": "left"
             }
-          },
-          "_anchor": "header3-3l"
+          }
         },
         {
           "_params": {
@@ -4196,9 +4199,9 @@
             "showSubtitle": true,
             "showButtons": false,
             "showMedia": true,
-            "imageSize": "50",
+            "imageSize": 50,
             "inverse": true,
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
             "bgColorRadio": true,
@@ -4214,7 +4217,7 @@
           "media": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ap-auditorialegal-777x777.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ap-derecholaboral-777x777.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4228,7 +4231,7 @@
               "loop": false
             }
           },
-          "title": "<i style=\"font-weight: normal;\">7. Derecho </i>Laboral",
+          "title": "<span style=\"font-weight: normal;\"><i>7. Derecho Laboral</i></span>",
           "text": "Diseñamos estrategias de protección laboral para evitar controversias con los trabajadores de las empresas, prestando servicios en la redacción de contratos individuales de trabajo, reglamentos interiores de trabajo, actas administrativas, entre otros. Así mismo, brindamos representación a la empresa para conciliar y defender sus intereses en toda clase de juicios o procedimientos de quejas ante las autoridades laborales.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
@@ -4236,6 +4239,7 @@
             "Tema"
           ],
           "_name": "header3",
+          "_anchor": "header3-3q",
           "_styles": {
             "H1": {
               "font-size": "46px",
@@ -4244,20 +4248,19 @@
             "P": {
               "text-align": "left"
             }
-          },
-          "_anchor": "header3-3m"
+          }
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "showTitle": true,
             "showSubtitle": true,
             "showButtons": false,
             "showMedia": true,
-            "imageSize": "50",
+            "imageSize": 50,
             "inverse": false,
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
             "bgColorRadio": true,
@@ -4273,7 +4276,7 @@
           "media": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ap-auditorialegal-777x777.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ap-proteccion-777x777.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4287,7 +4290,7 @@
               "loop": false
             }
           },
-          "title": "<i style=\"font-weight: normal;\">8. Protección de </i>datos personales",
+          "title": "<span style=\"font-weight: normal;\"><i>8. Protección de datos personales</i></span>",
           "text": "Diseñamos y redactamos Avisos de Privacidad para las empresas, con el fin de evitar multas y controversias por el mal uso de los datos personales de los clientes, colaboradores, usuarios y demás personas que les brindan información a las empresas. Así mismo, atendemos toda clase de investigaciones y procedimientos derivados de los derechos de acceso, rectificación, cancelación y oposición de datos personales en posesión de los particulares.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
@@ -4295,6 +4298,7 @@
             "Tema"
           ],
           "_name": "header3",
+          "_anchor": "header3-3r",
           "_styles": {
             "H1": {
               "font-size": "46px",
@@ -4303,8 +4307,7 @@
             "P": {
               "text-align": "left"
             }
-          },
-          "_anchor": "header3-3n"
+          }
         },
         {
           "_params": {
