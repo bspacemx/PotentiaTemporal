@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Potentia",
-    "currentPage": "areasdepractica.html",
+    "currentPage": "actaconstitutiva.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -3472,46 +3472,7 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/theboxweb-736x537.png",
-                    "link": "http://theboxcoworking.com/",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/imatchweb-1000x1000.png",
-                    "link": "http://www.imatch.mx/#home",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/exomaqmxweb-1000x1000.png",
-                    "link": "https://ecomaq.mx/",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/grupomedicoozoneweb-1000x1000.png",
+                    "src": "@PROJECT_PATH@/assets/images/as-nation-1000x1000.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3523,21 +3484,8 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/comercamweb-1000x1000.png",
-                    "link": "http://comercram.mx/",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/anatomiavonputlitzweb-1000x1000.png",
-                    "link": "https://www.facebook.com/Dr.vonPutlitz/",
+                    "src": "@PROJECT_PATH@/assets/images/comercram-1000x1000.png",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -3548,12 +3496,11 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/accademiamichelangelo-1000x1000.png",
-                    "link": "https://www.facebook.com/AccademiaMichelangelo.mx/",
+                    "src": "@PROJECT_PATH@/assets/images/disilpem-1000x1000.png",
+                    "link": "",
                     "active": true,
                     "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
+                    "title": ""
                   }
                 }
               },
@@ -3561,12 +3508,59 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/rosabarocioweb-1000x1000.png",
+                    "src": "@PROJECT_PATH@/assets/images/darwin-1000x1000.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/finner-1000x1000.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/vaes-solutions-1000x1000.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/tbx-corp-1000x1000.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/vso-solutions-1000x1000.png",
                     "link": "http://rosabarocio.com/",
                     "active": true,
                     "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
+                    "title": ""
                   }
                 }
               },
@@ -3574,7 +3568,31 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/carclicweb-1000x1000.png",
+                    "src": "@PROJECT_PATH@/assets/images/moessler-1000x1000.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/moesslerconstruction-1000x1000.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/csg-integral-1000x1000.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3677,7 +3695,7 @@
     },
     "areasdepractica.html": {
       "settings": {
-        "title": "Areas de practica FIXED",
+        "title": "Areas de practica",
         "order": 6
       },
       "components": [
