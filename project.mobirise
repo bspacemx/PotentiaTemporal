@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Potentia",
-    "currentPage": "actaconstitutiva.html",
+    "currentPage": "constituyetuempresa.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -37,7 +37,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 136,
+    "uniqCompNum": 153,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -131,16 +131,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/potentia-logo-500x107.png",
+              "src": "@PROJECT_PATH@/assets/images/potentiaw-172x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
-          "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://www.linkedin.com/company/potentia-legal-group/?originalSubdomain=mx\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-facebook\"></i></a>   ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +51 (222) 851 0917</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a>",
+          "icons": " <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://mx.linkedin.com/company/potentia-legal-group\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>    ",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01 (222) 644 3932</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -160,7 +159,7 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/header2-slide3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/signing-legal-document-pse9pft-2000x1335.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -203,16 +202,16 @@
             "showSubtitle": false,
             "showText": false,
             "showButtons": false,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/v02-spiral-19-2000x1333.jpg",
+            "bgColorRadio": false,
             "bgColor": "#000d2a",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
@@ -229,11 +228,11 @@
           "_styles": {
             "SPAN": {
               "font-size": "30px",
-              "color": "#ffffff"
+              "color": "#000d2a"
             },
             "H1": {
               "font-size": "30px",
-              "color": "#ffffff"
+              "color": "#000d2a"
             }
           }
         },
@@ -390,7 +389,7 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a>",
+          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a><br>",
           "alias": "spacem/components",
           "_tags": [
             "Tema"
@@ -403,7 +402,7 @@
     "aboutus.html": {
       "settings": {
         "title": "Quienes Somos",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -485,7 +484,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/potentia-logo-500x107.png",
+              "src": "@PROJECT_PATH@/assets/images/potentiaw-172x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -493,8 +492,8 @@
               "linkInNewWindow": false
             }
           },
-          "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://www.linkedin.com/company/potentia-legal-group/?originalSubdomain=mx\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-facebook\"></i></a>   ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +51 (222) 851 0917</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a>",
+          "icons": " <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://mx.linkedin.com/company/potentia-legal-group\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>    ",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01 (222) 644 3932</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -581,16 +580,16 @@
             "showText": false,
             "showImages": true,
             "columns": 4,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-seccion-1919x934.png",
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
@@ -673,7 +672,7 @@
               "family": "et-line"
             }
           },
-          "title": "<em>Quiénes</em>&nbsp;somos?",
+          "title": "<em>¿Quiénes</em>&nbsp;somos?",
           "subtitle": "Subtitle",
           "text": "Sabemos muy bien que el tiempo es vital para cualquier empresa, por tal motivo, nuestros servicios están diseñados óptimamente para alcanzar los objetivos de una manera más rápida y eficiente.\n<br>Además, estamos convencidos que la mejor estrategia para reducir gastos en la resolución de problemas es previniendo. Nosotros les damos a nuestros clientes una serie de herramientas que les permiten llevar a cabo sus actividades sin detenerse por conflictos legales.\n<br>Por otro lado, diseñamos estrategias jurídicas para expandir su empresa cuidando cada fibra de sus intereses y brindando transparencia y rendición de cuentas en cada una de nuestras actividades.",
           "title1": "Nosotros",
@@ -722,7 +721,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "\"Sé rápido como el trueno que retumba antes de que hayas podido taparte los oídos,&nbsp;<br><span style=\"font-weight: normal;\">sé veloz como el relámpago que relumbra antes de &nbsp;haver podido pestañear\"</span><br><span style=\"font-weight: normal;\"><br></span><br><i>Sun<span style=\"font-weight: normal;\"> Tzu</span></i><span style=\"font-weight: normal;\"><br></span>",
+          "title": "\"Sé rápido como el trueno que retumba antes de que hayas podido taparte los oídos,&nbsp;<br><span style=\"font-weight: normal;\">sé veloz como el relámpago que relumbra antes de haber podido pestañear\"</span><br><span style=\"font-weight: normal;\"><br></span><br><i>Sun<span style=\"font-weight: normal;\"> Tzu</span></i><span style=\"font-weight: normal;\"><br></span>",
           "subtitle": "Subtitle",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
@@ -813,7 +812,7 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a>",
+          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a><br>",
           "alias": "spacem/components",
           "_tags": [
             "Tema"
@@ -823,55 +822,13 @@
         }
       ]
     },
-    "areas.html": {
+    "nuestrosclientes.html": {
       "settings": {
-        "title": "Areas de practica",
+        "title": "Nuestros clientes",
         "order": 5
       },
       "components": [
         {
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": false,
-            "bgColor": "#fff",
-            "timeout": 5,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/header1-slide3.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Áreas <span style=\"font-weight: normal;\"><i>de práctica</i></span>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet commodi dignissimos temporibus, voluptates laborum vel molestiae delectus velit ad quisquam.",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "slider7",
-          "_anchor": "slider7-f",
-          "_styles": {
-            "H1": {
-              "font-size": "100px",
-              "text-align": "center"
-            }
-          }
-        },
-        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -950,7 +907,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/potentia-logo-500x107.png",
+              "src": "@PROJECT_PATH@/assets/images/potentiaw-172x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -958,293 +915,8 @@
               "linkInNewWindow": false
             }
           },
-          "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://www.linkedin.com/company/potentia-legal-group/?originalSubdomain=mx\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-facebook\"></i></a>   ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +51 (222) 851 0917</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a>",
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "menu2",
-          "_anchor": "menu2-d"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showText": true,
-            "columns": 6,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "Steps to success",
-          "text": "Donec non augue eros. Praesent quis nunc metus. Duis vehicula nisl diam, in varius nibh consectetur eget. Sed quis magna id libero very molestie posuere. Mauris ac ligula eget quam",
-          "title1": "Derecho corporativo",
-          "title2": "Derecho inmobiliario",
-          "title3": "Propiedad intelectual",
-          "title4": "Auditoría legal",
-          "title5": "Contratos",
-          "title6": "Litigo civil y mercantil",
-          "subtitle1": "Subtitle1",
-          "subtitle2": "Subtitle2",
-          "subtitle3": "Subtitle3",
-          "subtitle4": "Subtitle4",
-          "subtitle5": "Subtitle5",
-          "subtitle6": "Subtitle6",
-          "text1": "Brindamos servicios de asistencia, planeación, redacción, asesoría y gestión en la constitución de\npersonas morales, así como en toda clase de actos jurídicos que modifiquen o disuelvan a la\npersona moral.",
-          "text2": "Protegemos y representamos a nuestros clientes en toda clase de operaciones inmobiliarias, tales\ncomo arrendamiento, compraventa, comodato, donación y administración de inmuebles.",
-          "text3": "Protegemos los activos intangibles más importantes de la empresa a través de la obtención de\npatentes, modelos de utilidad, diseños industriales, registros de marcas y protección de toda clase\nde obras ante el Instituto Mexicano de la Propiedad Industrial o ante el Instituto Nacional del\nDerecho de Autor.",
-          "text4": "Realizamos procesos de análisis y supervisión en diferentes áreas de la empresa para identificar\nriesgos e irregularidades legales con el fin de corregirlas o prevenirlas y evitar así multas,\nsanciones o investigaciones de carácter penal.",
-          "text5": "Diseñamos, redactamos y revisamos toda clase de contratos que la empresa necesita, tales como&nbsp;contratos de prestación de servicios, franquicia, joint venture, asociación en participación,\ncompraventa, comisión mercantil, confidencialidad, entre otros.",
-          "text6": "Representamos los intereses de nuestros clientes para defender o reclamar derechos en toda\nclase de controversias, tales como cobranza judicial, cumplimientos de contrato, penas\nconvencionales, entre otros.",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-g",
-          "_customCSS": "@media only screen and (max-width: 600px) {\n    .mbr-cards-col {\n        height: 550px;\n    }\n}"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showText": true,
-            "columns": "3",
-            "paddingTop": 0,
-            "paddingBottom": "2",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "Steps to success",
-          "text": "Donec non augue eros. Praesent quis nunc metus. Duis vehicula nisl diam, in varius nibh consectetur eget. Sed quis magna id libero very molestie posuere. Mauris ac ligula eget quam",
-          "title1": "Derecho laboral",
-          "title2": "Protección de datos personales",
-          "title3": "Get project result",
-          "title4": "Get project result",
-          "title5": "Get project result",
-          "title6": "Get project result",
-          "subtitle1": "Subtitle1",
-          "subtitle2": "Subtitle2",
-          "subtitle3": "Subtitle3",
-          "subtitle4": "Subtitle4",
-          "subtitle5": "Subtitle5",
-          "subtitle6": "Subtitle6",
-          "text1": "Diseñamos estrategias de protección laboral para evitar controversias con los trabajadores de las\nempresas, prestando servicios en la redacción de contratos individuales de trabajo, reglamentos\ninteriores de trabajo, actas administrativas, entre otros. Así mismo, brindamos representación a la\n<br>empresa para conciliar y defender sus intereses en toda clase de juicios o procedimientos de\nquejas ante las autoridades laborales.",
-          "text2": "Diseñamos y redactamos Avisos de Privacidad para las empresas, con el fin de evitar multas y\ncontroversias por el mal uso de los datos personales de los clientes, colaboradores, usuarios y\ndemás personas que les brindan información a las empresas. Así mismo, atendemos toda clase\nde investigaciones y procedimientos derivados de los derechos de acceso, rectificación,\ncancelación y oposición de datos personales en posesión de los particulares.",
-          "text3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique velit illum saepe ut magni, facere quam. Officia assumenda iste fugiat!",
-          "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi nemo aliquid laboriosam vero neque rerum sequi aut maiores voluptatem numquam.",
-          "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam repellendus culpa consequatur expedita iusto delectus accusamus unde aliquam quis perspiciatis.",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor ipsam dolores, illo quo corporis perferendis autem, rerum sunt ad quis? ",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-p",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-section mbr-section--no-padding content6\" data-rv-view=\"988\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px;\">\n        \n        <div class=\"container-fluid\">\n            <div class=\"row\">\n         \n                        <div class=\"mbr-cards-col col-lg-4 col-xs-12 bgw 3\" style=\"display: block;\">\n                            <div class=\"page_head text-left title-block\">\n                                \n                                <h1 class=\"styled mbr-editable-content\" code-editable-id=\"73\">Derecho laboral</h1>\n                                <div class=\"separator\"></div>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"74\">Diseñamos estrategias de protección laboral para evitar controversias con los trabajadores de las\nempresas, prestando servicios en la redacción de contratos individuales de trabajo, reglamentos\ninteriores de trabajo, actas administrativas, entre otros. Así mismo, brindamos representación a la\n<br>empresa para conciliar y defender sus intereses en toda clase de juicios o procedimientos de\nquejas ante las autoridades laborales.</p>\n                                <span class=\"block-number\">7</span>\n                            </div>\n                        </div>\n\n                        <div class=\"mbr-cards-col col-lg-4 col-xs-12 bgc 3\" style=\"display: block;\">\n                            <div class=\"page_head text-left title-block\">\n                                \n                                <h1 class=\"styled mbr-editable-content\" code-editable-id=\"75\">Protección de datos personales</h1>\n                                <div class=\"separator\"></div>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"76\">Diseñamos y redactamos Avisos de Privacidad para las empresas, con el fin de evitar multas y\ncontroversias por el mal uso de los datos personales de los clientes, colaboradores, usuarios y\ndemás personas que les brindan información a las empresas. Así mismo, atendemos toda clase\nde investigaciones y procedimientos derivados de los derechos de acceso, rectificación,\ncancelación y oposición de datos personales en posesión de los particulares.</p>\n                                <span class=\"block-number\">8</span>\n                            </div>\n                        </div>\n\n                      \n            </div>\n        </div> \n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": ".mbr-cards-col {\n    height: 500px;\n}\n\n@media only screen and (max-width: 600px) {\n    .mbr-cards-col {\n        height: 580px;\n    }\n}",
-          "_customTemplate": true
-        },
-        {
-          "_params": {
-            "bgColorRadio": true,
-            "bgColor": "#051438"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo_white.png"
-            }
-          },
-          "adress": "198 West 21th Street, Suite 721, New York NY5109 Pacific Coast Highway, Los Angeles CA",
-          "phone": "<a href=\"tel:+12 (3) 456 7890 123\" class=\"adr-link\"><b>Phone:</b> +12 (3) 456 7890 123</a>",
-          "email": "<a href=\"mailto:sample@sample.com\" class=\"adr-link\"><b>Email:</b> sample@sample.com</a>",
-          "titleNews": "our news",
-          "mediaNews1": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/foot_news_1.jpg"
-            }
-          },
-          "textNews1": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
-          "mediaNews2": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/foot_news_2.jpg"
-            }
-          },
-          "textNews2": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
-          "titleTweet": "lastest links",
-          "tweet1": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
-          "tweet2": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
-          "tweet3": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
-          "tweet4": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
-          "titleInst": "instagram",
-          "mediaInst1": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_1.jpg"
-            }
-          },
-          "mediaInst2": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_2.jpg"
-            }
-          },
-          "mediaInst3": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_3.jpg"
-            }
-          },
-          "mediaInst4": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_4.jpg"
-            }
-          },
-          "mediaInst5": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_5.jpg"
-            }
-          },
-          "mediaInst6": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_6.jpg"
-            }
-          },
-          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "footer2",
-          "_anchor": "footer2-e"
-        }
-      ]
-    },
-    "nuestrosclientes.html": {
-      "settings": {
-        "title": "Nuestros clientes",
-        "order": 7
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#fff"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#080808"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#1a1a1a!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#222"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
-              "background": "#ffffff"
-            },
-            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
-              "background": "transparent"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#fff"
-            },
-            ".link[aria-expanded=\"true\"]": {
-              "color": "#fff!important"
-            },
-            ".dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#222!important"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#222",
-            "fontSize": 0.75,
-            "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "#fff",
-            "fontActiveColor": "#222"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html#slider7-9\">Quiénes somos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"areasdepractica.html#slider7-3a\">áreas de práctica</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nuestrosclientes.html#slider7-n\">Nuestros clientes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">blog</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">Contacto</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/potentia-logo-500x107.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://www.linkedin.com/company/potentia-legal-group/?originalSubdomain=mx\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-facebook\"></i></a>   ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +51 (222) 851 0917</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a>",
+          "icons": " <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://mx.linkedin.com/company/potentia-legal-group\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>    ",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01 (222) 644 3932</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -1323,7 +995,7 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a>",
+          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a><br>",
           "alias": "spacem/components",
           "_tags": [
             "Tema"
@@ -1337,12 +1009,12 @@
             "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showBullets": false,
+            "showBullets": true,
             "bgColor": "#fff",
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/header1-slide4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/header1-slide32.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -1352,183 +1024,69 @@
                 "title": "Nuestros <span style=\"font-weight: normal;\"><i>clientes</i></span>",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Actualmente, brindamos soluciones al sector de la construcción, financiero, de la tecnología,\nautomotriz, inmobiliario, restaurantero, químico, educativo, de consultoría y capacitación, de alimentos, de mantenimiento industrial, así como a comercializadoras, distribuidoras, productoras\ny minoristas.",
+                "text": "Actualmente, brindamos soluciones al sector de la construcción, financiero, de la tecnología, automotriz, inmobiliario, restaurantero, químico, educativo, de consultoría y capacitación, de alimentos, de mantenimiento industrial, así como a comercializadoras, distribuidoras, productoras y minoristas.",
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/header1-slide13.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "Modern <em>Design</em>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, blanditiis culpa. Beatae quos fuga qui perferendis quod, cumque vero expedita!",
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/header1-slide24.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "Made for <em>You</em>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas iste, dicta aliquid asperiores natus tenetur expedita. Laborum a aliquid ratione.",
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/header1-slide4.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "Website <em>Maker</em>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus optio a fuga aliquam ducimus, natus eligendi. Reprehenderit illum, et magnam.",
                 "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
               }
             ]
           },
           "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left0.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right1.svg",
           "alias": "spacem/components",
           "_tags": [
-            "Tema"
+            "Theme"
           ],
-          "_name": "slider7",
-          "_anchor": "slider7-n",
-          "_styles": {
-            "H1": {
-              "font-size": "100px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "autoplay": true,
-            "timeout": 5,
-            "paddingTop": 2,
-            "paddingBottom": "4",
-            "showArrows": true,
-            "showBullets": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5,
-            "visibleSlides": "4",
-            "slides": [
-              {
-                "active": true,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/theboxweb-736x537.png",
-                    "link": "http://theboxcoworking.com/",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/imatchweb-1000x1000.png",
-                    "link": "http://www.imatch.mx/#home",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/exomaqmxweb-1000x1000.png",
-                    "link": "https://ecomaq.mx/",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/grupomedicoozoneweb-1000x1000.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/comercamweb-1000x1000.png",
-                    "link": "http://comercram.mx/",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/anatomiavonputlitzweb-1000x1000.png",
-                    "link": "https://www.facebook.com/Dr.vonPutlitz/",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/accademiamichelangelo-1000x1000.png",
-                    "link": "https://www.facebook.com/AccademiaMichelangelo.mx/",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/rosabarocioweb-1000x1000.png",
-                    "link": "http://rosabarocio.com/",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/carclicweb-1000x1000.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              }
-            ]
-          },
-          "title": "Our clients",
-          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients.",
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left-white.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right-white.svg",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "slider6",
-          "_anchor": "slider6-36"
+          "_name": "slider1",
+          "_anchor": "slider1-3s"
         }
       ]
     },
     "contacto.html": {
       "settings": {
         "title": "Contacto",
-        "order": 3
+        "order": 8
       },
       "components": [
         {
@@ -1610,7 +1168,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/potentia-logo-500x107.png",
+              "src": "@PROJECT_PATH@/assets/images/potentiaw-172x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1618,8 +1176,8 @@
               "linkInNewWindow": false
             }
           },
-          "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://www.linkedin.com/company/potentia-legal-group/?originalSubdomain=mx\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-facebook\"></i></a>   ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +51 (222) 851 0917</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a>",
+          "icons": " <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://mx.linkedin.com/company/potentia-legal-group\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>    ",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01 (222) 644 3932</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -1639,7 +1197,7 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/header1-slide4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/header1-slide45.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -1716,8 +1274,8 @@
           "title2": "<span class=\"icon54-v4-mobile-phone mbr-iconfont mbr-iconfont-btn\"></span>Teléfonos",
           "title3": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Teléfonos",
           "text1": "<a href=\"mailto:contacto@potentiagroup.com.mx\">contacto@potentiagroup.com.mx</a>",
-          "text2": "<a href=\"tel:222 851 0917\">222 851 0917</a>, <a href=\"tel:01 222 644 3932\">01 222 644 3932</a>",
-          "text3": "<a href=\"tel:222 302 2901\">222 302 2901</a>",
+          "text2": "<a href=\"tel:222 851 0917\">222 851 0917</a>",
+          "text3": "<a href=\"tel:222 302 2901\">01 222 644 3932</a>",
           "form": {
             "title": "MESSAGE",
             "action": "contacto@potentiagroup.com.mx",
@@ -1830,7 +1388,7 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a>",
+          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a><br>",
           "alias": "spacem/components",
           "_tags": [
             "Tema"
@@ -1843,7 +1401,7 @@
     "registrodemarca.html": {
       "settings": {
         "title": "Registro de Marca",
-        "order": 2
+        "order": 7
       },
       "components": [
         {
@@ -1925,7 +1483,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/potentia-logo-500x107.png",
+              "src": "@PROJECT_PATH@/assets/images/potentiaw-172x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1933,15 +1491,20 @@
               "linkInNewWindow": false
             }
           },
-          "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://www.linkedin.com/company/potentia-legal-group/?originalSubdomain=mx\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-facebook\"></i></a>   ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +51 (222) 851 0917</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a>",
+          "icons": " <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://mx.linkedin.com/company/potentia-legal-group\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>    ",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01 (222) 644 3932</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
             "Tema"
           ],
           "_name": "menu2",
-          "_anchor": "menu2-2s"
+          "_anchor": "menu2-3b",
+          "_customHTML": "<section class=\"menu2\" data-rv-view=\"427\">\n\n    <nav class=\"navbar navbar-dropdown navbar-fixed-top bg-color\">\n        \n\n            <div class=\"mbr-table mbr-table_top\">\n            <div class=\"container container-wide container-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"top-menu-link\"><a href=\"tel:+123 (456) 7890 123\" class=\"mbr-editable-button\" code-editable-id=\"139\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01 (222) 644 3932</a><a href=\"mailto:sample@sample.com\" class=\"mbr-editable-button\" code-editable-id=\"140\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a></div>\n\n                </div>\n                    <!-- <div class=\"mbr-table-cell\">\n                                    \n                    <div class=\"top-menu-folow pull-xs-right\"> <a title=\"Facebook\" target=\"_blank\" href=\"https://mx.linkedin.com/company/potentia-legal-group\" class=\"mbr-editable-button\"><span class=\"etl-icon icon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a> <a title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" class=\"mbr-editable-button\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>    </div>\n                                    \n                                    </div>\n                            </div>\n                            </div>\n                                    \n                            <div class=\"mbr-table mbr-table_bottom\">\n                            <div class=\"container container-wide container-table\">\n                                    <div class=\"mbr-table-cell logo\">\n                                    \n                    <div class=\"navbar-brand\">\n                        <a href=\"index.html\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/potentiaw-172x128.png\" alt=\"Mobirise\"></a>\n                        \n                    </div>\n                                    \n                                    </div>\n                                    <div class=\"mbr-table-cell\">\n                    \n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav nav-list\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"aboutus.html#slider7-9\">Quiénes somos</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"areasdepractica.html#slider7-3a\">áreas de práctica</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"nuestrosclientes.html#slider7-n\">Nuestros clientes</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\">blog</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"contacto.html\">Contacto</a></li></ul>\n                    \n                    <button class=\"navbar-toggler pull-xs-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <em></em>\n                    </button> -->\n\n                </div>\n            </div>\n            <!-- </div>  -->\n\n        \n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n.hide-buttons .nav-btn {\n  display: none !important;\n}\n.navbar-caption {\n  color: #ffffff;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n  background-color: #ffffff;\n}\n.link, .dropdown-item {\n  color: #ffffff;\n  font-family: 'Lato', sans-serif;\n}\n.link {\n  font-size: 0.75rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n  font-size: 0.812rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n  color: #fff;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n  background: #080808;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n  background: #1a1a1a!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n  background: #222;\n}\n.bg-color.transparent .link {\n  color: #ffffff;\n  transition: none;\n}\n.navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after {\n  background: #ffffff;\n}\n.navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em {\n  background: transparent;\n}\n.bg-color.transparent.opened .link {\n  transition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n  color: #fff;\n}\n.link[aria-expanded=\"true\"] {\n  color: #fff!important;\n}\n.dropdown-item[aria-expanded=\"true\"] {\n  color: #222!important;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -1954,7 +1517,7 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/header1-slide4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/registroheader-3-1900x950.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -1962,7 +1525,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
                 "title": "Registro de<em>&nbsp;Marca</em>",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "left",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus optio a fuga aliquam ducimus, natus eligendi. Reprehenderit illum, et magnam.",
                 "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
@@ -1986,7 +1549,104 @@
               "text-align": "center"
             }
           },
-          "_anchor": "slider1-2t"
+          "_anchor": "slider1-2t",
+          "_customCSS": "h1 {\n    text-shadow: 0 0 6px #000 ;\n}"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showTitle": true,
+            "showText": true,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/v02-spiral-22-2000x1333.jpg",
+            "bgColorRadio": false,
+            "bgColor": "#000d2a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75,
+            "googleMap": {
+              "address": "Priv. 31 Oriente No. 2022,\nCol. El Mirador, Puebla, Pue. C.P. 72530.",
+              "placeId": "ChIJNztxzpPAz4URsmO3cKeC58Q",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 320,
+              "src": "@THEME_PATH@/components/_images/about.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "¿Necesitas ayuda?",
+          "text": "Recibe una asesoría especializada&nbsp;<i><b>GRATUITA</b></i> para saber qué tipo de persona moral se adapta a las necesidades de tu empresa.",
+          "title1": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>Correo",
+          "title2": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>teléfono",
+          "title3": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Teléfono",
+          "text1": "<a href=\"mailto:marcas@potentiagroup.com.mx\">sociedades@potentiagroup.com.mx</a>",
+          "text2": "<a href=\"tel:01 222 644 3932\">01 222 644 3932</a>",
+          "text3": "<a href=\"tel:044 222 851 0917\">044 222 851 0917</a>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contacto@potentiagroup.com.mx",
+            "alerts": {
+              "success": "¡Gracias! Nos comunicaremos contigo lo más pronto posible."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Teléfono*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" type=\"submit\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-43"
         },
         {
           "_params": {
@@ -1997,16 +1657,16 @@
             "showText": true,
             "showImages": true,
             "columns": 4,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-seccion-1919x934.png",
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
@@ -2125,143 +1785,68 @@
         },
         {
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "showTitle": true,
-            "showText": true,
+            "showSubtitle": true,
+            "showButtons": false,
+            "showMedia": true,
+            "imageSize": "50",
+            "inverse": true,
             "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#000d2a",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-abogados-3-1919x934.jpg",
+            "bgColorRadio": false,
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#151515",
-            "overlayOpacity": 0.75,
-            "googleMap": {
-              "address": "Priv. 31 Oriente No. 2022,\nCol. El Mirador, Puebla, Pue. C.P. 72530.",
-              "placeId": "ChIJNztxzpPAz4URsmO3cKeC58Q",
-              "state": "ok",
-              "stateDetails": ""
-            }
+            "overlayOpacity": 0.35
           },
           "media": {
             "image": {
               "class": "mbr-figure__img",
-              "width": 320,
-              "src": "@THEME_PATH@/components/_images/about.jpg"
+              "src": "@PROJECT_PATH@/assets/images/somosabogados-712x768.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             }
           },
-          "title": "¿Necesitas ayuda?",
-          "text": "Recibe una asesoría <i><b>GRATUITA</b></i> para proteger tu marca",
-          "title1": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>Correo",
-          "title2": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>teléfono",
-          "title3": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Teléfono",
-          "text1": "<a href=\"mailto:marcas@potentiagroup.com.mx\">marcas@potentiagroup.com.mx</a>",
-          "text2": "<a href=\"tel:01 222 644 3932\">01 222 644 3932</a>",
-          "text3": "<a href=\"tel:044 222 851 0917\">044 222 851 0917</a>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "contacto@potentiagroup.com.mx",
-            "alerts": {
-              "success": "¡Gracias! Nos comunicaremos contigo lo más pronto posible."
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Nombre*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Teléfono*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Mensaje"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" type=\"submit\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
+          "title": "<i>¿Quiénes <span style=\"font-weight: normal;\">somos?</span></i>",
+          "text": "Somos un grupo de abogados expertos en marcas y propiedad industrial, estamos dedicados a proteger el intangible más importante de tu empresa: TU MARCA",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
           "_tags": [
-            "Tema"
+            "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "header3",
+          "_anchor": "header3-46",
           "_styles": {
-            "H1": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "14px"
-            },
-            "H4": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts1-2v"
-        },
-        {
-          "_params": {
-            "autoplay": false,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": false,
-            "bgColor": "#fff",
-            "timeout": 5,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/header1-slide3.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "¿Quiénes&nbsp;<em>somos?</em>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Somos un grupo de abogados expertos en marcas y propiedad industrial, estamos dedicados a proteger el intangible más importante de tu empresa: TU MARCA",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "slider7",
-          "_styles": {
-            "P": {
-              "text-align": "center"
+            "SPAN": {
+              "font-size": "100px"
             },
             "H1": {
-              "text-align": "center"
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#878787"
+            },
+            "I": {
+              "color": "#000d2a"
             }
-          },
-          "_anchor": "slider7-2w"
+          }
         },
         {
           "_params": {
@@ -2407,7 +1992,7 @@
           ],
           "_name": "text3",
           "_anchor": "text3-31",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative\" data-rv-view=\"364\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"intro page_head text-center\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        \n        <div class=\"container\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-12\">\n                    \n                    <div class=\"separator transparent\"></div>\n                    <div class=\"row\">\n                        <div class=\"col-md-4\">\n                            <p class=\"mbr-editable-content\" code-editable-id=\"61\"><em><strong>4. Informe mensual</strong></em><br><em><strong><br></strong></em>Te enviamos un informe mensual aclarando si hemos recibido respuesta o requerimients por parte del IMPI.</p>\n                        </div>\n                        <div class=\"col-md-4\">\n                            <p class=\"mbr-editable-content\" code-editable-id=\"62\"><strong><em>5. Título de registro<br></em></strong><br>Dentro de 4 a 6 meses recibimos la resolución y, en su caso, te enviamos el Título de Registro de Marca</p>\n                        </div>\n                       <!--  <div class=\"col-md-4\">\n                            <p class=\"mbr-editable-content\"><strong><em>6. Inscripción al Registro Público<br></em></strong><br>Se inscribe la constitución de la persona moral ante el Registro Público de Comercio</p>\n                        </div> -->\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div></section>",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative\" data-rv-view=\"364\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"intro page_head text-center\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        \n        <div class=\"container\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-12\">\n                    \n                    <div class=\"separator transparent\"></div>\n                    <div class=\"row\">\n                        <div class=\"col-md-4\">\n                            <p class=\"mbr-editable-content\" code-editable-id=\"36\"><em><strong>4. Informe mensual</strong></em><br><em><strong><br></strong></em>Te enviamos un informe mensual aclarando si hemos recibido respuesta o requerimients por parte del IMPI.</p>\n                        </div>\n                        <div class=\"col-md-4\">\n                            <p class=\"mbr-editable-content\" code-editable-id=\"37\"><strong><em>5. Título de registro<br></em></strong><br>Dentro de 4 a 6 meses recibimos la resolución y, en su caso, te enviamos el Título de Registro de Marca</p>\n                        </div>\n                       <!--  <div class=\"col-md-4\">\n                            <p class=\"mbr-editable-content\"><strong><em>6. Inscripción al Registro Público<br></em></strong><br>Se inscribe la constitución de la persona moral ante el Registro Público de Comercio</p>\n                        </div> -->\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div></section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "em {\n  color: #cbb379;\n}\n",
@@ -2599,6 +2184,44 @@
         },
         {
           "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": false,
+            "showSeparator": false,
+            "showSubtitle": false,
+            "showText": false,
+            "showButtons": true,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#222222",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>Contáctanos</i></span>",
+          "subtitle": "Subtitle",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Contáctanos</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "title3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "title3-47"
+        },
+        {
+          "_params": {
             "bgColorRadio": true,
             "bgColor": "#051438"
           },
@@ -2667,7 +2290,7 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a>",
+          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a><br>",
           "alias": "spacem/components",
           "_tags": [
             "Tema"
@@ -2677,12 +2300,118 @@
         }
       ]
     },
-    "actaconstitutiva.html": {
+    "areasdepractica.html": {
       "settings": {
-        "title": "Acta Constitutiva",
-        "order": 1
+        "title": "Areas de practica",
+        "order": 4
       },
       "components": [
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": false,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/header1-slide3.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "Áreas <span style=\"font-weight: normal;\"><i>de práctica</i></span>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet commodi dignissimos temporibus, voluptates laborum vel molestiae delectus velit ad quisquam.",
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
+          "alias": "spacem/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "slider7",
+          "_styles": {
+            "H1": {
+              "font-size": "100px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "slider7-3a"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": false,
+            "showMedia": true,
+            "imageSize": "50",
+            "inverse": true,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.35
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/ap-derechocorp02-777x777.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<i style=\"font-weight: normal;\">1. Derecho </i>Corporativo",
+          "text": "Brindamos servicios de asistencia, planeación, redacción, asesoría y gestión en la constitución de personas morales, así como en toda clase de actos jurídicos que modifiquen o disuelvan a la persona moral.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H1": {
+              "font-size": "46px",
+              "text-align": "left",
+              "color": "#222222"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#222222"
+            },
+            "I": {
+              "color": "#222222"
+            }
+          },
+          "_anchor": "header3-3g"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -2762,7 +2491,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/potentia-logo-500x107.png",
+              "src": "@PROJECT_PATH@/assets/images/potentiaw-172x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2770,15 +2499,741 @@
               "linkInNewWindow": false
             }
           },
-          "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://www.linkedin.com/company/potentia-legal-group/?originalSubdomain=mx\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-facebook\"></i></a>   ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +51 (222) 851 0917</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a>",
+          "icons": " <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://mx.linkedin.com/company/potentia-legal-group\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>    ",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01 (222) 644 3932</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
             "Tema"
           ],
           "_name": "menu2",
-          "_anchor": "menu2-w"
+          "_anchor": "menu2-3b"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": false,
+            "showMedia": true,
+            "imageSize": "50",
+            "inverse": false,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#cbb379",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.35
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/ap-inmobiliaria-1-777x777.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<i style=\"font-weight: normal;\">2. Derecho </i>Inmobiliario",
+          "text": "Protegemos y representamos a nuestros clientes en toda clase de operaciones inmobiliarias, tales como arrendamiento, compraventa, comodato, donación y administración de inmuebles.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H1": {
+              "font-size": "46px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header3-3f"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": false,
+            "showMedia": true,
+            "imageSize": 50,
+            "inverse": true,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#222222",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.35
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/ap-propiedadintelectual-777x777.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<i style=\"font-weight: normal;\">3. Propiedad </i>Intelectual",
+          "text": "Protegemos los activos intangibles más importantes de la empresa a través de la obtención de patentes, modelos de utilidad, diseños industriales, registros de marcas y protección de toda clase de obras ante el Instituto Mexicano de la Propiedad Industrial o ante el Instituto Nacional del Derecho de Autor.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3o",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "font-size": "46px",
+              "text-align": "left"
+            },
+            "EM": {
+              "font-size": "46px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": false,
+            "showMedia": true,
+            "imageSize": "50",
+            "inverse": false,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#000d2a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.35
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/ap-auditorialegal-777x777.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<i style=\"font-weight: normal;\">4. Auditoria&nbsp;</i>Legal",
+          "text": "Realizamos procesos de análisis y supervisión en diferentes áreas de la empresa para identificar riesgos e irregularidades legales con el fin de corregirlas o prevenirlas y evitar así multas, sanciones o investigaciones de carácter penal.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H1": {
+              "font-size": "46px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header3-3i"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": false,
+            "showMedia": true,
+            "imageSize": "50",
+            "inverse": true,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.35
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/ap-contratos-777x777.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<i style=\"font-weight: normal;\">5. Contratos</i>",
+          "text": "Diseñamos, redactamos y revisamos toda clase de contratos que la empresa necesita, tales como contratos de prestación de servicios, franquicia, joint venture, asociación en participación, compraventa, comisión mercantil, confidencialidad, entre otros.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H1": {
+              "font-size": "46px",
+              "text-align": "left",
+              "color": "#222222"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#222222"
+            },
+            "I": {
+              "color": "#222222"
+            }
+          },
+          "_anchor": "header3-3k"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": false,
+            "showMedia": true,
+            "imageSize": 50,
+            "inverse": false,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#cbb379",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.35
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/ap-litigo02-777x777.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>6. Litigo Civil y Mercantil</i></span>",
+          "text": "Representamos los intereses de nuestros clientes para defender o reclamar derechos en toda clase de controversias, tales como cobranza judicial, cumplimientos de contrato, penas convencionales, entre otros.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3p",
+          "_styles": {
+            "EM": {
+              "font-size": "46px"
+            },
+            "H1": {
+              "font-size": "46px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": false,
+            "showMedia": true,
+            "imageSize": 50,
+            "inverse": true,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#222222",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.35
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/ap-derecholaboral-777x777.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>7. Derecho Laboral</i></span>",
+          "text": "Diseñamos estrategias de protección laboral para evitar controversias con los trabajadores de las empresas, prestando servicios en la redacción de contratos individuales de trabajo, reglamentos interiores de trabajo, actas administrativas, entre otros. Así mismo, brindamos representación a la empresa para conciliar y defender sus intereses en toda clase de juicios o procedimientos de quejas ante las autoridades laborales.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3q",
+          "_styles": {
+            "H1": {
+              "font-size": "46px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": false,
+            "showMedia": true,
+            "imageSize": 50,
+            "inverse": false,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#000d2a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.35
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/ap-proteccion-777x777.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>8. Protección de datos personales</i></span>",
+          "text": "Diseñamos y redactamos Avisos de Privacidad para las empresas, con el fin de evitar multas y controversias por el mal uso de los datos personales de los clientes, colaboradores, usuarios y demás personas que les brindan información a las empresas. Así mismo, atendemos toda clase de investigaciones y procedimientos derivados de los derechos de acceso, rectificación, cancelación y oposición de datos personales en posesión de los particulares.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3r",
+          "_styles": {
+            "H1": {
+              "font-size": "46px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "bgColorRadio": true,
+            "bgColor": "#051438"
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo_white.png"
+            }
+          },
+          "adress": "198 West 21th Street, Suite 721, New York NY5109 Pacific Coast Highway, Los Angeles CA",
+          "phone": "<a href=\"tel:+12 (3) 456 7890 123\" class=\"adr-link\"><b>Phone:</b> +12 (3) 456 7890 123</a>",
+          "email": "<a href=\"mailto:sample@sample.com\" class=\"adr-link\"><b>Email:</b> sample@sample.com</a>",
+          "titleNews": "our news",
+          "mediaNews1": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/foot_news_1.jpg"
+            }
+          },
+          "textNews1": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
+          "mediaNews2": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/foot_news_2.jpg"
+            }
+          },
+          "textNews2": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
+          "titleTweet": "lastest links",
+          "tweet1": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet2": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet3": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet4": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "titleInst": "instagram",
+          "mediaInst1": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_1.jpg"
+            }
+          },
+          "mediaInst2": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_2.jpg"
+            }
+          },
+          "mediaInst3": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_3.jpg"
+            }
+          },
+          "mediaInst4": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_4.jpg"
+            }
+          },
+          "mediaInst5": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_5.jpg"
+            }
+          },
+          "mediaInst6": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_6.jpg"
+            }
+          },
+          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a><br>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-3e"
+        }
+      ]
+    },
+    "thankyou.html": {
+      "settings": {
+        "title": "Thank you",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "bgColorRadio": true,
+            "bgColor": "#051438"
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo_white.png"
+            }
+          },
+          "adress": "198 West 21th Street, Suite 721, New York NY5109 Pacific Coast Highway, Los Angeles CA",
+          "phone": "<a href=\"tel:+12 (3) 456 7890 123\" class=\"adr-link\"><b>Phone:</b> +12 (3) 456 7890 123</a>",
+          "email": "<a href=\"mailto:sample@sample.com\" class=\"adr-link\"><b>Email:</b> sample@sample.com</a>",
+          "titleNews": "our news",
+          "mediaNews1": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/foot_news_1.jpg"
+            }
+          },
+          "textNews1": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
+          "mediaNews2": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/foot_news_2.jpg"
+            }
+          },
+          "textNews2": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
+          "titleTweet": "lastest links",
+          "tweet1": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet2": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet3": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet4": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "titleInst": "instagram",
+          "mediaInst1": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_1.jpg"
+            }
+          },
+          "mediaInst2": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_2.jpg"
+            }
+          },
+          "mediaInst3": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_3.jpg"
+            }
+          },
+          "mediaInst4": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_4.jpg"
+            }
+          },
+          "mediaInst5": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_5.jpg"
+            }
+          },
+          "mediaInst6": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_6.jpg"
+            }
+          },
+          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a><br>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-41"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/header1-slide32.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "¡Gracias!",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "En breve nos pondremos en contacto contigo para proteger tu marca.",
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">Inicio</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/header1-slide13.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "Modern <em>Design</em>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, blanditiis culpa. Beatae quos fuga qui perferendis quod, cumque vero expedita!",
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/header1-slide24.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "Made for <em>You</em>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas iste, dicta aliquid asperiores natus tenetur expedita. Laborum a aliquid ratione.",
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/header1-slide4.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "Website <em>Maker</em>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus optio a fuga aliquam ducimus, natus eligendi. Reprehenderit illum, et magnam.",
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left0.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right1.svg",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider1",
+          "_anchor": "slider1-42",
+          "_styles": {
+            "H1": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    },
+    "constituyetuempresa.html": {
+      "settings": {
+        "title": "Constitucion de tu empresa",
+        "order": 6
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#222",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#fff",
+            "fontActiveColor": "#222"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html#slider7-9\">Quiénes somos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"areasdepractica.html#slider7-3a\">áreas de práctica</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nuestrosclientes.html#slider7-n\">Nuestros clientes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">blog</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">Contacto</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/potentiaw-172x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "icons": " <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://mx.linkedin.com/company/potentia-legal-group\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>    ",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01 (222) 644 3932</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-3b",
+          "_customHTML": "<section class=\"menu2\" data-rv-view=\"427\">\n\n    <nav class=\"navbar navbar-dropdown navbar-fixed-top bg-color\">\n        \n\n            <div class=\"mbr-table mbr-table_top\">\n            <div class=\"container container-wide container-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"top-menu-link\"><a href=\"tel:+123 (456) 7890 123\" class=\"mbr-editable-button\" code-editable-id=\"54\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01 (222) 644 3932</a><a href=\"mailto:sample@sample.com\" class=\"mbr-editable-button\" code-editable-id=\"55\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a></div>\n\n                </div>\n                    <!-- <div class=\"mbr-table-cell\">\n                                    \n                    <div class=\"top-menu-folow pull-xs-right\"> <a title=\"Facebook\" target=\"_blank\" href=\"https://mx.linkedin.com/company/potentia-legal-group\" class=\"mbr-editable-button\"><span class=\"etl-icon icon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a> <a title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" class=\"mbr-editable-button\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>    </div>\n                                    \n                                    </div>\n                            </div>\n                            </div>\n                                    \n                            <div class=\"mbr-table mbr-table_bottom\">\n                            <div class=\"container container-wide container-table\">\n                                    <div class=\"mbr-table-cell logo\">\n                                    \n                    <div class=\"navbar-brand\">\n                        <a href=\"index.html\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/potentiaw-172x128.png\" alt=\"Mobirise\"></a>\n                        \n                    </div>\n                                    \n                                    </div>\n                                    <div class=\"mbr-table-cell\">\n                    \n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav nav-list\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"aboutus.html#slider7-9\">Quiénes somos</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"areasdepractica.html#slider7-3a\">áreas de práctica</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"nuestrosclientes.html#slider7-n\">Nuestros clientes</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\">blog</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"contacto.html\">Contacto</a></li></ul>\n                    \n                    <button class=\"navbar-toggler pull-xs-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <em></em>\n                    </button> -->\n\n                </div>\n            </div>\n            <!-- </div>  -->\n\n        \n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n.hide-buttons .nav-btn {\n  display: none !important;\n}\n.navbar-caption {\n  color: #ffffff;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n  background-color: #ffffff;\n}\n.link, .dropdown-item {\n  color: #ffffff;\n  font-family: 'Lato', sans-serif;\n}\n.link {\n  font-size: 0.75rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n  font-size: 0.812rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n  color: #fff;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n  background: #080808;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n  background: #1a1a1a!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n  background: #222;\n}\n.bg-color.transparent .link {\n  color: #ffffff;\n  transition: none;\n}\n.navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after {\n  background: #ffffff;\n}\n.navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em {\n  background: transparent;\n}\n.bg-color.transparent.opened .link {\n  transition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n  color: #fff;\n}\n.link[aria-expanded=\"true\"] {\n  color: #fff!important;\n}\n.dropdown-item[aria-expanded=\"true\"] {\n  color: #222!important;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -2791,15 +3246,15 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/header1-slide4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/constitucionheader-5-1900x950.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Generación de<em>&nbsp;Acta Constitutiva</em>",
-                "overlay": true,
+                "title": "Constitución Legal <i style=\"font-weight: normal;\">de tu empresa</i>",
+                "overlay": false,
                 "contentAlign": "left",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus optio a fuga aliquam ducimus, natus eligendi. Reprehenderit illum, et magnam.",
                 "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
@@ -2823,6 +3278,103 @@
               "font-size": "100px",
               "text-align": "center"
             }
+          },
+          "_customCSS": "h1 {\n    text-shadow: 0 0 6px #000 ;\n}\n"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showTitle": true,
+            "showText": true,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/v02-spiral-22-2000x1333.jpg",
+            "bgColorRadio": false,
+            "bgColor": "#000d2a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75,
+            "googleMap": {
+              "address": "Priv. 31 Oriente No. 2022,\nCol. El Mirador, Puebla, Pue. C.P. 72530.",
+              "placeId": "ChIJNztxzpPAz4URsmO3cKeC58Q",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 320,
+              "src": "@THEME_PATH@/components/_images/about.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "¿Necesitas ayuda?",
+          "text": "Recibe una asesoría especializada&nbsp;<i><b>GRATUITA</b></i> para saber qué tipo de persona moral se adapta a las necesidades de tu empresa.",
+          "title1": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>Correo",
+          "title2": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>teléfono",
+          "title3": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Teléfono",
+          "text1": "<a href=\"mailto:marcas@potentiagroup.com.mx\">sociedades@potentiagroup.com.mx</a>",
+          "text2": "<a href=\"tel:01 222 644 3932\">01 222 644 3932</a>",
+          "text3": "<a href=\"tel:044 222 851 0917\">044 222 851 0917</a>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contacto@potentiagroup.com.mx",
+            "alerts": {
+              "success": "¡Gracias! Nos comunicaremos contigo lo más pronto posible."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Teléfono*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" type=\"submit\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-17",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
           }
         },
         {
@@ -2834,16 +3386,16 @@
             "showText": true,
             "showImages": true,
             "columns": 4,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-seccion-1919x934.png",
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
@@ -2962,143 +3514,68 @@
         },
         {
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "showTitle": true,
-            "showText": true,
+            "showSubtitle": true,
+            "showButtons": false,
+            "showMedia": true,
+            "imageSize": "50",
+            "inverse": true,
             "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#000d2a",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-abogados-3-1919x934.jpg",
+            "bgColorRadio": false,
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#151515",
-            "overlayOpacity": 0.75,
-            "googleMap": {
-              "address": "Priv. 31 Oriente No. 2022,\nCol. El Mirador, Puebla, Pue. C.P. 72530.",
-              "placeId": "ChIJNztxzpPAz4URsmO3cKeC58Q",
-              "state": "ok",
-              "stateDetails": ""
-            }
+            "overlayOpacity": 0.35
           },
           "media": {
             "image": {
               "class": "mbr-figure__img",
-              "width": 320,
-              "src": "@THEME_PATH@/components/_images/about.jpg"
+              "src": "@PROJECT_PATH@/assets/images/somosabogados-712x768.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             }
           },
-          "title": "¿Necesitas ayuda?",
-          "text": "Recibe una asesoría especializada&nbsp;<i><b>GRATUITA</b></i> para saber qué tipo de persona moral se adapta a las necesidades de tu empresa.",
-          "title1": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>Correo",
-          "title2": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>teléfono",
-          "title3": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Teléfono",
-          "text1": "<a href=\"mailto:marcas@potentiagroup.com.mx\">sociedades@potentiagroup.com.mx</a>",
-          "text2": "<a href=\"tel:01 222 644 3932\">01 222 644 3932</a>",
-          "text3": "<a href=\"tel:044 222 851 0917\">044 222 851 0917</a>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "contacto@potentiagroup.com.mx",
-            "alerts": {
-              "success": "¡Gracias! Nos comunicaremos contigo lo más pronto posible."
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Nombre*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Teléfono*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Mensaje"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" type=\"submit\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
+          "title": "<i>¿Quiénes <span style=\"font-weight: normal;\">somos?</span></i>",
+          "text": "Somos un grupo de abogados expertos en marcas y propiedad industrial, estamos dedicados a proteger el intangible más importante de tu empresa: TU MARCA",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
           "_tags": [
-            "Tema"
+            "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-17",
+          "_name": "header3",
           "_styles": {
+            "SPAN": {
+              "font-size": "100px"
+            },
             "H1": {
-              "color": "#ffffff"
+              "text-align": "left"
             },
             "P": {
-              "color": "#ffffff",
-              "font-size": "14px"
+              "text-align": "left",
+              "color": "#878787"
             },
-            "H4": {
-              "color": "#ffffff"
+            "I": {
+              "color": "#000d2a"
             }
-          }
-        },
-        {
-          "_params": {
-            "autoplay": false,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": false,
-            "bgColor": "#fff",
-            "timeout": 5,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/header1-slide3.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "¿Quiénes&nbsp;<em>somos?</em>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Somos un grupo de abogados expertos en derecho societario y estamos dedicados a proteger el patrimonio y los intereses de tu empresa a través de una estructura legal sólida y fuerte.",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
-              }
-            ]
           },
-          "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "slider7",
-          "_anchor": "slider7-1r",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            },
-            "H1": {
-              "text-align": "center"
-            }
-          }
+          "_anchor": "header3-48"
         },
         {
           "_params": {
@@ -3405,7 +3882,7 @@
           ],
           "_name": "text3",
           "_anchor": "text3-2r",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative\" data-rv-view=\"100\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"intro page_head text-center\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n        \n        <div class=\"container\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-12\">\n                    \n                    <div class=\"separator transparent\"></div>\n                    <div class=\"row\">\n                        <div class=\"col-md-4\">\n                            <p class=\"mbr-editable-content\" code-editable-id=\"24\"><strong><em>7. Testimonio Original<br></em></strong><br>Para finalizar, una vez inscrito en el Registro Público, se entrega el testimonio original de la persona moral al representante.</p>\n                        </div>\n                       <!--  <div class=\"col-md-4\">\n                            <p class=\"mbr-editable-content\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis perspiciatis vero accusantium excepturi aperiam eius sit quis nobis cupiditate voluptatem tempora a odio, ad, officiis ex harum saepe fuga at modi quibusdam voluptas voluptatum!</p>\n                        </div>\n                        <div class=\"col-md-4\">\n                            <p class=\"mbr-editable-content\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis perspiciatis vero accusantium excepturi aperiam eius sit quis nobis cupiditate voluptatem tempora a odio, ad, officiis ex harum saepe fuga at modi quibusdam voluptas voluptatum!</p>\n                        </div> -->\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div></section>",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative\" data-rv-view=\"100\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"intro page_head text-center\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n        \n        <div class=\"container\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-12\">\n                    \n                    <div class=\"separator transparent\"></div>\n                    <div class=\"row\">\n                        <div class=\"col-md-4\">\n                            <p class=\"mbr-editable-content\" code-editable-id=\"138\"><strong><em>7. Testimonio Original<br></em></strong><br>Para finalizar, una vez inscrito en el Registro Público, se entrega el testimonio original de la persona moral al representante.</p>\n                        </div>\n                       <!--  <div class=\"col-md-4\">\n                            <p class=\"mbr-editable-content\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis perspiciatis vero accusantium excepturi aperiam eius sit quis nobis cupiditate voluptatem tempora a odio, ad, officiis ex harum saepe fuga at modi quibusdam voluptas voluptatum!</p>\n                        </div>\n                        <div class=\"col-md-4\">\n                            <p class=\"mbr-editable-content\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis perspiciatis vero accusantium excepturi aperiam eius sit quis nobis cupiditate voluptatem tempora a odio, ad, officiis ex harum saepe fuga at modi quibusdam voluptas voluptatum!</p>\n                        </div> -->\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div></section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "em {\n  color: #cbb379;\n}\n",
@@ -3469,7 +3946,7 @@
             "visibleSlides": "4",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/as-nation-1000x1000.png",
@@ -3484,7 +3961,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/comercram-1000x1000.png",
+                    "src": "@PROJECT_PATH@/assets/images/comercram-1-1000x1000.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3493,10 +3970,10 @@
                 }
               },
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/disilpem-1000x1000.png",
+                    "src": "@PROJECT_PATH@/assets/images/disilpem-1-1000x1000.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3615,6 +4092,44 @@
         },
         {
           "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": false,
+            "showSeparator": false,
+            "showSubtitle": false,
+            "showText": false,
+            "showButtons": true,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#222222",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>Contáctanos</i></span>",
+          "subtitle": "Subtitle",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Contáctanos</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "title3",
+          "_anchor": "title3-3v",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
             "bgColorRadio": true,
             "bgColor": "#051438"
           },
@@ -3683,727 +4198,13 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a>",
+          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a><br>",
           "alias": "spacem/components",
           "_tags": [
             "Tema"
           ],
           "_name": "footer2",
           "_anchor": "footer2-x"
-        }
-      ]
-    },
-    "areasdepractica.html": {
-      "settings": {
-        "title": "Areas de practica",
-        "order": 6
-      },
-      "components": [
-        {
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": false,
-            "bgColor": "#fff",
-            "timeout": 5,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/header1-slide3.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Áreas <span style=\"font-weight: normal;\"><i>de práctica</i></span>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet commodi dignissimos temporibus, voluptates laborum vel molestiae delectus velit ad quisquam.",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "slider7",
-          "_styles": {
-            "H1": {
-              "font-size": "100px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "slider7-3a"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": false,
-            "showMedia": true,
-            "imageSize": "50",
-            "inverse": true,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.35
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ap-derechocorp-777x777.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<i style=\"font-weight: normal;\">1. Derecho </i>Corporativo",
-          "text": "Brindamos servicios de asistencia, planeación, redacción, asesoría y gestión en la constitución de personas morales, así como en toda clase de actos jurídicos que modifiquen o disuelvan a la persona moral.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "H1": {
-              "font-size": "46px",
-              "text-align": "left",
-              "color": "#222222"
-            },
-            "P": {
-              "text-align": "left",
-              "color": "#222222"
-            },
-            "I": {
-              "color": "#222222"
-            }
-          },
-          "_anchor": "header3-3g"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#fff"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#080808"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#1a1a1a!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#222"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
-              "background": "#ffffff"
-            },
-            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
-              "background": "transparent"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#fff"
-            },
-            ".link[aria-expanded=\"true\"]": {
-              "color": "#fff!important"
-            },
-            ".dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#222!important"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#222",
-            "fontSize": 0.75,
-            "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "#fff",
-            "fontActiveColor": "#222"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html#slider7-9\">Quiénes somos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"areasdepractica.html#slider7-3a\">áreas de práctica</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nuestrosclientes.html#slider7-n\">Nuestros clientes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">blog</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">Contacto</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/potentia-logo-500x107.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://www.linkedin.com/company/potentia-legal-group/?originalSubdomain=mx\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/potentia.group/?ref=br_rs\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-facebook\"></i></a>   ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +51 (222) 851 0917</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;contacto@potentiagroup.com.mx</a>",
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "menu2",
-          "_anchor": "menu2-3b"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": false,
-            "showMedia": true,
-            "imageSize": "50",
-            "inverse": false,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#cbb379",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.35
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ap-inmobiliaria-1-777x777.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<i style=\"font-weight: normal;\">2. Derecho </i>Inmobiliario",
-          "text": "Protegemos y representamos a nuestros clientes en toda clase de operaciones inmobiliarias, tales como arrendamiento, compraventa, comodato, donación y administración de inmuebles.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "H1": {
-              "font-size": "46px",
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "header3-3f"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": false,
-            "showMedia": true,
-            "imageSize": 50,
-            "inverse": true,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#222222",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.35
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ap-propiedadintelectual-777x777.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<i style=\"font-weight: normal;\">3. Propiedad </i>Intelectual",
-          "text": "Protegemos los activos intangibles más importantes de la empresa a través de la obtención de patentes, modelos de utilidad, diseños industriales, registros de marcas y protección de toda clase de obras ante el Instituto Mexicano de la Propiedad Industrial o ante el Instituto Nacional del Derecho de Autor.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3o",
-          "_styles": {
-            "H1": {
-              "color": "#ffffff",
-              "font-size": "46px",
-              "text-align": "left"
-            },
-            "EM": {
-              "font-size": "46px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": false,
-            "showMedia": true,
-            "imageSize": "50",
-            "inverse": false,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#000d2a",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.35
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ap-auditorialegal-777x777.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<i style=\"font-weight: normal;\">4. Auditoria&nbsp;</i>Legal",
-          "text": "Brindamos servicios de asistencia, planeación, redacción, asesoría y gestión en la constitución de personas morales, así como en toda clase de actos jurídicos que modifiquen o disuelvan a la persona moral.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "H1": {
-              "font-size": "46px",
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "header3-3i"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": false,
-            "showMedia": true,
-            "imageSize": "50",
-            "inverse": true,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.35
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ap-contratos-777x777.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<i style=\"font-weight: normal;\">5. Contratos</i>",
-          "text": "Diseñamos, redactamos y revisamos toda clase de contratos que la empresa necesita, tales como contratos de prestación de servicios, franquicia, joint venture, asociación en participación, compraventa, comisión mercantil, confidencialidad, entre otros.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "H1": {
-              "font-size": "46px",
-              "text-align": "left",
-              "color": "#222222"
-            },
-            "P": {
-              "text-align": "left",
-              "color": "#222222"
-            },
-            "I": {
-              "color": "#222222"
-            }
-          },
-          "_anchor": "header3-3k"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": false,
-            "showMedia": true,
-            "imageSize": 50,
-            "inverse": false,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#cbb379",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.35
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ap-litigo-777x777.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>6. Litigo Civil y Mercantil</i></span>",
-          "text": "Representamos los intereses de nuestros clientes para defender o reclamar derechos en toda clase de controversias, tales como cobranza judicial, cumplimientos de contrato, penas convencionales, entre otros.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3p",
-          "_styles": {
-            "EM": {
-              "font-size": "46px"
-            },
-            "H1": {
-              "font-size": "46px",
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": false,
-            "showMedia": true,
-            "imageSize": 50,
-            "inverse": true,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#222222",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.35
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ap-derecholaboral-777x777.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>7. Derecho Laboral</i></span>",
-          "text": "Diseñamos estrategias de protección laboral para evitar controversias con los trabajadores de las empresas, prestando servicios en la redacción de contratos individuales de trabajo, reglamentos interiores de trabajo, actas administrativas, entre otros. Así mismo, brindamos representación a la empresa para conciliar y defender sus intereses en toda clase de juicios o procedimientos de quejas ante las autoridades laborales.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3q",
-          "_styles": {
-            "H1": {
-              "font-size": "46px",
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": false,
-            "showMedia": true,
-            "imageSize": 50,
-            "inverse": false,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#000d2a",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.35
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ap-proteccion-777x777.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>8. Protección de datos personales</i></span>",
-          "text": "Diseñamos y redactamos Avisos de Privacidad para las empresas, con el fin de evitar multas y controversias por el mal uso de los datos personales de los clientes, colaboradores, usuarios y demás personas que les brindan información a las empresas. Así mismo, atendemos toda clase de investigaciones y procedimientos derivados de los derechos de acceso, rectificación, cancelación y oposición de datos personales en posesión de los particulares.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3r",
-          "_styles": {
-            "H1": {
-              "font-size": "46px",
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
-        },
-        {
-          "_params": {
-            "bgColorRadio": true,
-            "bgColor": "#051438"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo_white.png"
-            }
-          },
-          "adress": "198 West 21th Street, Suite 721, New York NY5109 Pacific Coast Highway, Los Angeles CA",
-          "phone": "<a href=\"tel:+12 (3) 456 7890 123\" class=\"adr-link\"><b>Phone:</b> +12 (3) 456 7890 123</a>",
-          "email": "<a href=\"mailto:sample@sample.com\" class=\"adr-link\"><b>Email:</b> sample@sample.com</a>",
-          "titleNews": "our news",
-          "mediaNews1": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/foot_news_1.jpg"
-            }
-          },
-          "textNews1": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
-          "mediaNews2": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/foot_news_2.jpg"
-            }
-          },
-          "textNews2": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
-          "titleTweet": "lastest links",
-          "tweet1": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
-          "tweet2": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
-          "tweet3": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
-          "tweet4": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
-          "titleInst": "instagram",
-          "mediaInst1": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_1.jpg"
-            }
-          },
-          "mediaInst2": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_2.jpg"
-            }
-          },
-          "mediaInst3": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_3.jpg"
-            }
-          },
-          "mediaInst4": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_4.jpg"
-            }
-          },
-          "mediaInst5": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_5.jpg"
-            }
-          },
-          "mediaInst6": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_6.jpg"
-            }
-          },
-          "copyright": "2018 All rights reserved. Development by <a href=\"http://bspacemx.com/sitio-web.html#form3-6n\">BSpace Digital Agency</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "footer2",
-          "_anchor": "footer2-3e"
         }
       ]
     }
